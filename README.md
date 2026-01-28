@@ -8,7 +8,7 @@ FastScan is a high-performance directory crawling and file indexing tool develop
 * **Clean & Optimized:** Refined codebase with all redundant code and debug comments removed for production-level quality.
 
 ## 🛠️ Tech Stack
-* **Language:** Java 17
+* **Language:** Java
 * **Concurrency:** ForkJoinPool, RecursiveAction (Fork-Join Architecture)
 * **Build Tool:** Maven
 * **Core Concepts:** Recursion, Multithreading, Parallel Computing, Performance Optimization
