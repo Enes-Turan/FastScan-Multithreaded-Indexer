@@ -102,11 +102,4 @@ Completed in 42 ms
 * Create a **clean, interview-ready concurrency project**
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 👨‍💻 Developed by **Enes Turan**
